@@ -1,0 +1,2 @@
+# kaggleearthquake
+kaggle competition code
