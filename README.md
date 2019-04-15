@@ -26,6 +26,6 @@ The initial submission ranked 455 out of 2,032, or top 23%, the best result I ob
 
 ### Conclusion / further improvements
 
-The earthquake prediction results show how important statistical feature engineering can be, even if the understanding of the causes why certain features influence predictions are limited. In this competition and beyond, thorough data analytics can not only provide highly effective predictions, but also point business people or researchers to new areas of investigation they might not even have thought about before.
+The earthquake prediction results show how important statistical feature engineering can be, even if the understanding of the causes why certain features influence predictions are limited. In this competition and beyond, thorough data analytics can not only provide highly effective predictions, but also point business or research to new areas of investigation that might not have been explored before.
 
 ### Final kaggle score to be added once competition is finished
