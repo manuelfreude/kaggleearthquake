@@ -23,7 +23,7 @@ Stacking the models either in the combination of Gradient Boost/Bagging/AdaBoost
 
 The initial submission ranked 455 out of 2,032, or top 23%, the best result I obtained during a competition so far!! Posting this on LinkedIn achieved 1,200+ views of my network, both great achievements!!
 
-![kaggle_i](https://github.com/manuelfreude/kaggleearthquake/blob/master/kaggle_performance_earthquake.png.png)
+![kaggle_i](https://github.com/manuelfreude/kaggleearthquake/blob/master/kaggle_performance_earthquake.png)
 
 ### Conclusion / further improvements
 
