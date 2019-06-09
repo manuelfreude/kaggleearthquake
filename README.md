@@ -28,4 +28,8 @@ The initial submission ranked 455 out of 2,032, or top 23%, the best result I ob
 
 The earthquake prediction results show how important statistical feature engineering can be, even if the understanding of the causes why certain features influence predictions are limited. In this competition and beyond, thorough data analytics can not only provide highly effective predictions, but also point business or research to new areas of investigation that might not have been explored before.
 
-### Final kaggle score to be added once competition is finished
+### Final kaggle scores
+
+About two months after I handed in my final submission, the competition was scored. I had ranked among the top 23% in the private leaderboard, which took into account 13% of the predictions for calculating the score. By the time the competition ended, I was in passed down to the top 34%. In the public leaderboard, which was calculated with 87% of the predictions, I only ranked top 64%. There were major shake-ups of the leaderboard, potentially due to some kind of different data for the predictions. People moved up or down the ladder by thousands of ranks. That led to the issue that my best-performing algorithm in the private leaderboard was one of the worst for the public leaderboard.
+
+I had not selected the eventually best algorithm for submission that would have scored highly with the public leaderboard data. I assume that many other people did not do so, either. However, if my best performing algorithm would have been selected, I would have scored among the top 6% within the competition, or at rank 250 out of 4,540.
